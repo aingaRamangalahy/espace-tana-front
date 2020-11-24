@@ -12,7 +12,7 @@ import { RegisterModule } from './register/register.module';
     CommonModule,
     HomeModule,
     LoginModule,
-    RegisterModule
+    RegisterModule,
   ]
 })
-export class PagesModule { }
+export class ViewsModule { }
